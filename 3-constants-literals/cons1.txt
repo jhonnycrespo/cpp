@@ -1,0 +1,14 @@
+Constants refer to fixed values that the program may not alter and they are called literals.
+
+Constants can be of any of the basic data types and can be divided into Integer Numerals, Floating-Point Numerals, Characters, Strings and Boolean Values.
+
+Again, constants are treated just like regular variables except that their values cannot be modified after their definition.
+
+
+Defining Constants
+==================
+
+There are two simple ways in C++ to define constants:
+
+    - Using #define preprocessor.
+    - Using const keyword.
