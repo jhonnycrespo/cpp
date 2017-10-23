@@ -4,6 +4,7 @@
  */
 
 int main() {
+    // allocate space in the stack for 10 elements
     int arr[10];
     double balance[5] = {1000.0, 2.0, 3.4, 17.0, 50.0};
     // or

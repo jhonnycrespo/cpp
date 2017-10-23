@@ -30,3 +30,6 @@ is used when multiple functions do similar operations, templates are used when m
 
 * What is template specialization?
 - Template specialization allows us to have different code for a particular data type.
+
+
+https://stackoverflow.com/questions/972152/how-to-create-a-template-function-within-a-class-c

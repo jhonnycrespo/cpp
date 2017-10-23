@@ -21,6 +21,7 @@ int main () {
    char str2[10] = "World";
    char str3[10];
    char str4[] = "Bjarne Stroustrup";
+   
    // this will place "pulp fiction" in the read-only parts of the memory.
    // Any writing operation is illegal.
    const char* s1 = "pulp fiction";
